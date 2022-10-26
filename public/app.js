@@ -39,6 +39,7 @@ window.addEventListener('click', function (e) {
     // Ternary operator
   	// : = Else , ? = If
     // console.log(e.target === formModal ? "this is false" : "this is true")
+    //  Better idiomatic way of writing algorithims
     (e.target === formModal) ? formModal.classList.add('hidden') : false
 })
 
