@@ -28,3 +28,13 @@ tableMenu.addEventListener('click', function() {
     // console.log(document.body.classList)
     // console.log(document.body)
 })
+
+window.addEventListener('click', function (e) {
+    if (e.target === formModal) {
+        formModal.classList.add('hidden')
+    } else {
+        return false
+    }
+    console.log(e.target)
+    console.log('Youclick the Window Element')
+})
