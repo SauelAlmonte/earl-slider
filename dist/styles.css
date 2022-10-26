@@ -564,6 +564,14 @@ video {
   right: 33.333333%;
 }
 
+.z-0 {
+  z-index: 0;
+}
+
+.-z-0 {
+  z-index: 0;
+}
+
 .m-6 {
   margin: 1.5rem;
 }
@@ -647,6 +655,10 @@ video {
 
 .justify-evenly {
   justify-content: space-evenly;
+}
+
+.overflow-visible {
+  overflow: visible;
 }
 
 .rounded-full {
