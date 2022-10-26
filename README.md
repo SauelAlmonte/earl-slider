@@ -28,6 +28,31 @@ This modal project is to the show how JavaScript is used for interactivity
 
 To view form in action, please click this link -> [Earl's Slider & Modal](http://earl-slider.vercel.app/)
 
+### Menu Slider
+Click on the Menu Button at the top left corner of screen
+
+![](img/Screenshot%20at%20Oct%2026%2019-32-04.png)
+
+Upon clicking the menu button, the menu will slide out for view
+
+![](img/Screenshot%20at%20Oct%2026%2019-34-00.png)
+
+Click menu button to hide menu
+
+![](img/Screenshot%20at%20Oct%2026%2019-32-04.png)
+
+### Book a Table
+
+Click on the Book a Table at the bottom right corner of screen
+
+![](img/Screenshot%20at%20Oct%2026%2019-37-12.png)
+
+Upon clicking book a table, the modal will appear (as a popup window)
+
+![](img/Screenshot%20at%20Oct%2026%2019-38-40.png)
+
+Click the X at top right corner of modal to close modal
+
 -----------------------------
 ### What languages & frameworks were used to create this form?
 
