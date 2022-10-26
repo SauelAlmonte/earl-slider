@@ -36,6 +36,8 @@ window.addEventListener('click', function (e) {
     //     return false
     // }
     // console.log(e.target)
+    // Tenary operator
+  	// : = Else , ? = If
     console.log(e.target === formModal ? "this is false" : "this is true")
 })
 
