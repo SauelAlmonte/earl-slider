@@ -1,4 +1,4 @@
-## Welcome to Earl's Slider
+## Welcome to Earl's Slider & Modal
 
 ---------------------------
 
@@ -7,11 +7,12 @@
 
 ### To view this project, please click below
 
-[Earl's Slider](http://earl-slider.vercel.app/)
+[Earl's Slider & Modal](http://earl-slider.vercel.app/)
 
 ----------------------------------------
 
 This project is an example of a : 
+
 - Modal
 
 Modal's are used in everyday websites & applications.
@@ -25,7 +26,7 @@ This modal project is to the show how JavaScript is used for interactivity
 
 ----
 
-To view form in action, please click this link -> [Earl's Slider](http://earl-slider.vercel.app/)
+To view form in action, please click this link -> [Earl's Slider & Modal](http://earl-slider.vercel.app/)
 
 -----------------------------
 ### What languages & frameworks were used to create this form?
@@ -51,6 +52,6 @@ What is [JavaScript?](https://en.wikipedia.org/wiki/JavaScript)
 [JavaScript](https://en.wikipedia.org/wiki/JavaScript) is a programming language for the web, to calculate, manipulate & validate data. It can also update & change HTML as well as CSS.
 
 ----------------------------------
-### To view this form in action, please click this link -> [Earl's Slider](earl-slider.vercel.app)
+### To view this form in action, please click this link -> [Earl's Slider & Modal](earl-slider.vercel.app)
 
 *Please visit again, as there will be updates. The next step is to build a Backend & Database.*
