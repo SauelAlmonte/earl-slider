@@ -3,10 +3,12 @@ const formModal = document.querySelector('#form-modal')
 const bookTableBtn = document.querySelector('#book-table-btn')
 const closeModal = document.querySelector('#close-modal')
 
+// bookTableBtn Function that removes 'hidden' class from bookTableBtn
 bookTableBtn.addEventListener('click', function () {
     formModal.classList.remove('hidden')
 })
 
+// closeModal Function that adds 'hidden' back to bookTableBtn
 closeModal.addEventListener('click', function () {
     formModal.classList.add('hidden')
 })
