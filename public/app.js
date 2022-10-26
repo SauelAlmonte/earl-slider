@@ -36,5 +36,4 @@ window.addEventListener('click', function (e) {
         return false
     }
     console.log(e.target)
-    console.log('Youclick the Window Element')
 })
