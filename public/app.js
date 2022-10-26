@@ -8,7 +8,7 @@ bookTableBtn.addEventListener('click', function () {
     formModal.classList.remove('hidden')
 })
 
-// closeModal Function that adds 'hidden' back to bookTableBtn
+// closeModal Function that adds 'hidden' class back to bookTableBtn
 closeModal.addEventListener('click', function () {
     formModal.classList.add('hidden')
 })
