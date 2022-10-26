@@ -1,5 +1,4 @@
 const tableMenu = document.getElementById("book-table")
-
 const formModal = document.querySelector('#form-modal')
 const bookTableBtn = document.querySelector('#book-table-btn')
 const closeModal = document.querySelector('#close-modal')
