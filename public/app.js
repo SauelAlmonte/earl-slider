@@ -29,13 +29,14 @@ tableMenu.addEventListener('click', function() {
     // console.log(document.body)
 })
 
-// window.addEventListener('click', function (e) {
-//     if (e.target === formModal) {
-//         formModal.classList.add('hidden')
-//     } else {
-//         return false
-//     }
-//     console.log(e.target)
-// })
+window.addEventListener('click', function (e) {
+    // if (e.target === formModal) {
+    //     formModal.classList.add('hidden')
+    // } else {
+    //     return false
+    // }
+    // console.log(e.target)
+    console.log(e.target === formModal ? "this is false" : "this is true")
+})
 
 // Method to write the above algorithm shorter
