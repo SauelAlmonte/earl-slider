@@ -1,5 +1,22 @@
 const tableMenu = document.getElementById("book-table")
 
+const formModal = document.querySelector('#form-modal')
+const bookTableBtn = document.querySelector('#book-table-btn')
+const closeModal = document.querySelector('#close-modal')
+
+bookTableBtn.addEventListener('click', function () {
+    formModal.classList.remove('hidden')
+})
+
+closeModal.addEventListener('click', function () {
+    formModal.classList.add('hidden')
+})
+
+
+formModal.addEventListener('click', function () {
+    // 
+}) 
+
 tableMenu.addEventListener('click', function() {
     //  add transform in the opposite direction = transform - translate-x-64 //
     //  .show-sidebar
